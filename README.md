@@ -1,16 +1,12 @@
 # test_app
 
-A new Flutter project.
+Цей проект створений як приклад з вирішення подібних задач з курсу Кросплатформенних розробок.
 
-## Getting Started
+Щоб запустити програму потрібно встановити SDK Flutter на вашу систему.<br>
+В якості інструкції використовуйте [це посилання](https://docs.flutter.dev/get-started/install).<br>
+Після чого потрібно скачати цей репозиторій через зручний вам спосіб, відкрити його та прописати команду в консолі:<br>
+`flutter run -v`
 
-This project is a starting point for a Flutter application.
+**Умова задачі:**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Створити програму для перегляду інформації про кінофільми. Засобами мови Dart потрібно створити клас фільму який повинен містити інформацію про назву, рік випуску, короткий опис, посилання на плакат фільму, режисера та прапорець, котрий означає чи що фільм ще не вийшов. Засобами фреймворку Flutter створити три сторінки. На першій сторінці в списку повинні відображатись фільм з короткою інформацією про них (назва та рік випуску). Натиснувши на котрий можна перейти на сторінку із детальним описом кінофільму. Також на першій сторінці повинна бути плаваюча кнопка, натиснувши на котру відкриється сторінка з формою, де можна ввести інформацію про новий фільм, та додати його на основну сторінку програми.*
